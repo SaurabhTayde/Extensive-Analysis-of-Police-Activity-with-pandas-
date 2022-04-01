@@ -1,2 +1,2 @@
-# Extensive-Anaysis-of-Police-Activity-with-pandas-
+# Extensive-Analysis-of-Police-Activity-with-pandas-
 In this repository, explored Stanford Open Policing Project dataset and analyze the impact of gender on police behavior. Activities inlcude cleaning messy data, creating visualizations, combining and reshaping datasets, and manipulating time series data. Specifically code includes Preparing the data for analysis, Exploring the relationship between gender and policing, Visual exploratory data analysis and Analyzing the effect of weather on policing. 
